@@ -1,4 +1,4 @@
 nbauernfeind.github.com
 =======================
 
-Github Pages
+Currently this only contains my Ludum Dare 23 entry.
